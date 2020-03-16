@@ -1,0 +1,28 @@
+/* components/paylist/paylist.wxss */
+.playContainer{
+  width: 220rpx;
+  position: relative;
+  margin-bottom: 20rpx;
+}
+.play-img{
+  width: 100%;
+  height: 220rpx;
+  border-radius: 10rpx;
+}
+.playlist-number{
+  font-size: 24rpx;
+  color: #ffffff;
+  position: absolute;
+  top: 5rpx;
+  right: 10rpx;
+}
+.playlist-name{
+  font-size: 26rpx;
+  line-height: 1.4;
+  padding: 2px 0 0 6px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp:2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

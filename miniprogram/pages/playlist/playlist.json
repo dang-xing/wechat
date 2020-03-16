@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "d-playlist":"/components/paylist/paylist"
+  }
+}
